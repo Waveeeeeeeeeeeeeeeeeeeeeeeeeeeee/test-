@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.4](https://github.com/Waveeeeeeeeeeeeeeeeeeeeeeeeeeeee/test-/compare/v0.0.3...v0.0.4) (2024-12-11)
+
+
+### Miscellaneous
+
+* release v0.0.4 ([be70069](https://github.com/Waveeeeeeeeeeeeeeeeeeeeeeeeeeeee/test-/commit/be70069bf599e35bd19544d07920802dd0d980f1))
+
 ## [0.0.3](https://github.com/Waveeeeeeeeeeeeeeeeeeeeeeeeeeeee/test-/compare/v0.0.2...v0.0.3) (2024-12-11)
 
 
